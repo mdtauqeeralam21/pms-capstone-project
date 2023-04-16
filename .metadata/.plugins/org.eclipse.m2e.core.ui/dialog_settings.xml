@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\kushw\Documents\g2-local-backend-services\g2-physician-availability-service"/>
+			<item value="C:\Users\kushw\Documents\g2-local-backend-services\g2-patient-info-service"/>
+			<item value="C:\Users\kushw\Documents\g2-local-backend-services\g2-patient-health-records-service"/>
+			<item value="C:\Users\kushw\Documents\g2-local-backend-services\g2-notification-service"/>
+			<item value="C:\Users\kushw\Documents\g2-local-backend-services\g2-config-service"/>
+			<item value="C:\Users\kushw\Documents\g2-local-backend-services\g2-Authentication-service"/>
+			<item value="C:\Users\kushw\Documents\g2-local-backend-services\g2-auth0-service"/>
+			<item value="C:\Users\kushw\Documents\g2-local-backend-services\g2-Appointment-service"/>
+			<item value="C:\Users\kushw\Documents\g2-local-backend-services\g2-api-gateway-service"/>
+			<item value="C:\Users\kushw\Documents\g2-local-backend-services\g2-allergy-service"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
